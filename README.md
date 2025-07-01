@@ -3,10 +3,10 @@ Basic cloud instance and ping test assignment.
 
 # CLOUD-EX-01
 
-## 📌 Ödev Konusu:
-Google Cloud veya AWS gibi bir servis sağlayıcısında sanal bir makine oluşturup, kendi bilgisayarımızdan bu makineye `ping` testi yapılması.
+# Ödev Konusu:
+Google Cloud veya AWS gibi bir servis sağlayıcısında sanal bir makine oluşturup, kendi bilgisayarımızdan bu makineye ping testi yapılması.
 
-## 🚀 Adımlar
+# Adımlar
 1. GCP hesabı açıldı.
 2. Basit bir VM oluşturuldu.
 3. External IP alındı.
